@@ -1,32 +1,19 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-10-08T00:00:00Z",
+  "schema_version": 1,
   "instances": [
     {
-      "id": "desafio-100-dias",
-      "name": "Desafío 100 días",
-      "description": "Instancia Forge de Darkness Studio.",
-      "packVersion": "1.0.0",
-      "minecraft": {
-        "version": "1.21.1",
-        "loader": {
-          "type": "forge",
-          "version": "52.0.10"
-        },
-        "javaMajor": 21,
-        "memoryMb": {
-          "min": 2048,
-          "max": 5120
-        }
-      },
-      "package": {
-  "url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafio1-1.0.0/desafiov1-1.0.0-b4188683b062.zip",
-  "sha256": "b4188683b062bcc94b7c3fa3888b9fced0793cbcfcf23614dcdf1a9cbbba2c7e"
-},
-      "server": {
-        "host": "IP_O_DOMINIO_DE_TU_SERVIDOR",
-        "port": 25565
-      }
+      "id": "desafio1",
+      "name": "DESAFIO 100 DIAS",
+      "description": "LISTOS PARA LOS 100 DIAS?",
+      "active": true,
+      "release": "1.0.0",
+      "minecraft_version": "1.21.1",
+      "loader": "forge",
+      "loader_version": "52.10",
+      "ram_mb": 5120,
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafio1-1.0.0/desafiov1-1.0.0-b4188683b062.zip",
+      "sha256": "b4188683b062bcc94b7c3fa3888b9fced0793cbcfcf23614dcdf1a9cbbba2c7e",
+      "servers": []
     }
   ]
 }
