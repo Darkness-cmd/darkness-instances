@@ -20,9 +20,9 @@
         }
       },
       "package": {
-        "url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafio1-1.0.0/desafio1-1.0.0-b4188683b062.zip",
-        "sha256": "b4188683b062bcc94b7c3fa3888b9fced0793cbcfcf23614dcdf1a9cbbba2c7e"
-      },
+  "url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafio1-1.0.0/desafio1-1.0.0-b4188683b062.zip",
+  "sha256": "b4188683b062bcc94b7c3fa3888b9fced0793cbcfcf23614dcdf1a9cbbba2c7e"
+},
       "server": {
         "host": "IP_O_DOMINIO_DE_TU_SERVIDOR",
         "port": 25565
