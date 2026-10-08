@@ -5,13 +5,19 @@
     {
       "id": "desafio-100-dias",
       "name": "Desafío 100 días",
-      "description": "Instancia de Darkness Studio",
+      "description": "Instancia Forge de Darkness Studio.",
       "packVersion": "1.0.0",
       "minecraft": {
         "version": "1.21.1",
-        "loader": { "type": "vanilla" },
+        "loader": {
+          "type": "forge",
+          "version": "52.0.10"
+        },
         "javaMajor": 21,
-        "memoryMb": { "min": 2048, "max": 4096 }
+        "memoryMb": {
+          "min": 2048,
+          "max": 5120
+        }
       },
       "server": {
         "host": "IP_O_DOMINIO_DE_TU_SERVIDOR",
