@@ -6,15 +6,15 @@
       "name": "DESAFIO 100 DIAS",
       "description": "LISTOS PARA LOS 100 DIAS?",
       "active": true,
-      "release": "1.1.18",
+      "release": "1.1.20",
       "minecraft_version": "1.21.1",
       "loader": "forge",
       "loader_version": "52.0.10",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.1.18/desafiov1-1.1.18.zip",
-      "sha256": "5382e4e8c5a0363d6a7e299112a7fc1eaf333051d631049c39d0b18f15d89d5e",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.1.20/desafiov1-1.1.20.zip",
+      "sha256": "1ec059d590847d7f02a7a7d1d53e4f1d7bcec76e1b4d5e2e223896f868e9e083",
       "servers": []
     }
   ]
