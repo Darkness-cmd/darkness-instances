@@ -20,17 +20,17 @@
     {
       "id": "desafio1-fabric",
       "name": "DESAFIO 100 DIAS · FABRIC",
-      "description": "Instancia Fabric independiente con FTB Quests, ruta de supervivencia, hitos de Days of Doom y misiones diarias. En perfiles nuevos se requieren dependencias FTB oficiales.",
+      "description": "Instancia Fabric independiente con fichas 3D de misión, universal y casino; tragamonedas compacta de 2x3x2, probabilidades persistentes y FTB Quests.",
       "active": true,
-      "release": "1.0.6",
+      "release": "1.0.7",
       "minecraft_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.16.14",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.6/desafiov1-fabric-1.0.6.zip",
-      "sha256": "3ebfaa31a9fa92f47008f56f075d3110e5a5502dc2b737e84c0ba4066dd860a6",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.7/desafiov1-fabric-1.0.7.zip",
+      "sha256": "cf0ae83726e766a7aee934e61929ced3820772dcdb787862f05837138881ac84",
       "servers": []
     }
   ]
