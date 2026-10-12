@@ -22,15 +22,15 @@
       "name": "DESAFIO 100 DIAS · FABRIC",
       "description": "Instancia Fabric independiente para empezar a usar mods Fabric.",
       "active": true,
-      "release": "1.0.0",
+      "release": "1.0.2",
       "minecraft_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.16.14",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.0/desafiov1-fabric-1.0.0.zip",
-      "sha256": "bf50a64493a26cdbfd4219fc3bd4f3568a64c0425e65e013a6c1f2780e9bf905",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.2/desafiov1-fabric-1.0.2.zip",
+      "sha256": "53fba362e8c8302ab174ca363105d1609b5b70da4b8e0556bd51e53286d3512b",
       "servers": []
     }
   ]
