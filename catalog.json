@@ -20,17 +20,17 @@
     {
       "id": "desafio1-fabric",
       "name": "DESAFIO 100 DIAS · FABRIC",
-      "description": "Instancia Fabric con tragamonedas Blockbench 3D, textura v3 y animaciones de palanca y rodillos integradas.",
+      "description": "Instancia Fabric con tragamonedas Blockbench 3D, textura v3 y animaciones de palanca y rodillos con GeckoLib 4.7.7.",
       "active": true,
-      "release": "1.0.10",
+      "release": "1.0.11",
       "minecraft_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.16.14",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.10/desafiov1-fabric-1.0.10.zip",
-      "sha256": "697a195e59f099f011170e8c3d94fa8d63886049508891f9c1116b9af5675e53",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.11/desafiov1-fabric-1.0.11.zip",
+      "sha256": "89f12e6fa08c085a534ef62e79f2e9991ae42f8926cf049575bdcf2d68badcd3",
       "servers": []
     }
   ]
