@@ -20,17 +20,17 @@
     {
       "id": "desafio1-fabric",
       "name": "DESAFIO 100 DIAS · FABRIC",
-      "description": "Instancia Fabric con nuevas apariencias 3D para la píldora 404, el corazón permanente y las dos variantes del bloqueador solar.",
+      "description": "Instancia Fabric con modelos 3D de objetos y textura corregida del bloqueador solar personal.",
       "active": true,
-      "release": "1.0.21",
+      "release": "1.0.22",
       "minecraft_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.16.14",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.21/desafiov1-fabric-1.0.21.zip",
-      "sha256": "34a64ad17b9ab3480fabd5085f6ad580929cf8dcdedb82e20de9bea81291c15f",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.22/desafiov1-fabric-1.0.22.zip",
+      "sha256": "a8db1697a2326a75ae49dc6b2954812fbfb7388d452aebe960af25bb66509ba3",
       "servers": []
     }
   ]
