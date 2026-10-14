@@ -20,17 +20,17 @@
     {
       "id": "desafio1-fabric",
       "name": "DESAFIO 100 DIAS · FABRIC",
-      "description": "Instancia Fabric con modelos 3D, máquina tragamonedas iluminada y efecto del altar de misiones activado con dedita celeste.",
+      "description": "Instancia Fabric con modelos 3D, tragamonedas iluminada y efecto actualizado del altar de misiones.",
       "active": true,
-      "release": "1.0.23",
+      "release": "1.0.24",
       "minecraft_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.16.14",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.23/desafiov1-fabric-1.0.23.zip",
-      "sha256": "a53a0e6e89ab66a1b20e971e862b3698b928e1539033f38c9f89b3ad341a6e4f",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.24/desafiov1-fabric-1.0.24.zip",
+      "sha256": "1755c515e897ecef7af805c65acd0d469532d423fe30fc24561a240b7d709c6f",
       "servers": []
     }
   ]
