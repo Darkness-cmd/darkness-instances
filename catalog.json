@@ -20,17 +20,17 @@
     {
       "id": "desafio1-fabric",
       "name": "DESAFIO 100 DIAS · FABRIC",
-      "description": "Instancia Fabric con tragamonedas Blockbench: un símbolo centrado en cada rodillo, animación de giro y premios escalonados.",
+      "description": "Instancia Fabric con nuevas apariencias 3D para la píldora 404, el corazón permanente y las dos variantes del bloqueador solar.",
       "active": true,
-      "release": "1.0.20",
+      "release": "1.0.21",
       "minecraft_version": "1.21.1",
       "loader": "fabric",
       "loader_version": "0.16.14",
       "ram_mb": 5120,
       "icon_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/desafio1-icon.jpg",
       "background_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-1.0.0/fondo.jpg",
-      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.20/desafiov1-fabric-1.0.20.zip",
-      "sha256": "33dd0480d6f6e6ca6de8a6a6e9b779a96980156419631b1691b5135fc57b1171",
+      "package_url": "https://github.com/Darkness-cmd/darkness-instances/releases/download/darkness-desafiov1-fabric-1.0.21/desafiov1-fabric-1.0.21.zip",
+      "sha256": "34a64ad17b9ab3480fabd5085f6ad580929cf8dcdedb82e20de9bea81291c15f",
       "servers": []
     }
   ]
